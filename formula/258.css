@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #576973;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	line-height: 1.4em; 
+	background-color: #00ff90;
+	text-align:center;
+	background-position: top
+}
+#red{
+  padding:50px;
+  text-align:center;
+    }
+#result	{
+	width:150px;
+	background-color:wait;
+	height:30px;
+	margin:0 auto;
+	color:#00ff99;
+	}
